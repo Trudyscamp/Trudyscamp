@@ -3,11 +3,11 @@
 - 🔭 I’m currently Open to Work!
 - 👾 I’m currently learning HTML, CSS, Java Script.
 - 😄 Pronouns: He/His
-
+<img align="center" src="https://github.com/Trudyscamp/Trudyscamp/blob/main/bubblegum-crisis-cyberpunk-anime.gif"  width= "760px" height="400px">
 <div>
   <a href="https://github.com/Trudyscamp">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trudyscamp&Show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trudyscamp&layout=compat&langs_count=16&theme=radical"/>
+   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Trudyscamp&Show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trudyscamp&layout=compat&langs_count=16&theme=radical"/>
 </div>
   <br>
 <div>
