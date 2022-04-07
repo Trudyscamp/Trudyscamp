@@ -23,7 +23,7 @@
     <a href="https://www.linkedin.com/in/eduardo-vynn%C3%ADcius-354368219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
   
- ![Snake animation] (https://github.com/Trudyscamp/Trudyscamp/blob/output/github-contribution-grid-snake.svg)
+ 
    ![snake gif](https://github.com/Trudyscamp/trudyscamp/blob/output/github-contribution-grid-snake.gif)
  
  
