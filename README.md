@@ -24,7 +24,7 @@
  </div>
   
  
-   ![snake gif](https://github.com/Trudyscamp/trudyscamp/blob/output/github-contribution-grid-snake.gif)
+   ![snake gif](https://github.com/Trudyscamp/trudyscamp/blob/output/github-contribution-grid-snake.svg)
  
  
  
