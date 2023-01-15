@@ -1,7 +1,7 @@
 ### Hello!! I'm Eduardo Vynnícius (Trudyscamp) 👋
  ##
 - 👾 I’m currently learning Python.
-- 👌 I’m currently studying to Amazon AWS praticioner.
+- 👌 I’m currently studying to Amazon AWS practitioner.
 - 😄 Pronouns: He/His
 
 
