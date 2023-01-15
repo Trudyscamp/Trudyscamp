@@ -1,26 +1,21 @@
 ### Hello!! I'm Eduardo Vynnícius (Trudyscamp) 👋
  ##
-- 🔭 I’m currently Open to Work On Front-End!
-- 👾 I’m currently learning HTML, CSS, Java Script.
+- 👾 I’m currently learning Python.
+- 👌 I’m currently studying to Amazon AWS praticioner.
 - 😄 Pronouns: He/His
 
 
 
 <img align="center" src="https://github.com/Trudyscamp/Trudyscamp/blob/main/bubblegum-crisis-cyberpunk-anime.gif"  width= "724px" height="400px">
-<div>
-  <a href="https://github.com/Trudyscamp">
-   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Trudyscamp&Show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trudyscamp&layout=compat&langs_count=16&theme=tokyonight"/>
-    
-</div>
+
   <br>
  
  ##
  
  <h3>Tecnologies that i use: </h3> 
  <div>
- <img align="center" alt="" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/> 
- <img align="center" alt="" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+ <img align="center" alt="" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+ <img align="center" alt="" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
  <img align="center" alt="" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 </div>
   
