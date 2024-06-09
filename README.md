@@ -2,11 +2,9 @@
 <h3 align="center">Future DevOps</h3>
 
 
-
-
-<img align="center" src="https://github.com/Trudyscamp/Trudyscamp/blob/main/bubblegum-crisis-cyberpunk-anime.gif"  width= "724px" height="400px">
-
-  <br>
+<br>
+<img align="center" src="https://github.com/Trudyscamp/Trudyscamp/blob/main/bubblegum-crisis-cyberpunk-anime.gif"  width= "1024px" height="400px">
+<br>
  - 🌱 I’m currently learning Python and Linux
  ##
  
@@ -27,7 +25,7 @@
  </div>
   
  
- ![snake gif](https://github.com/Trudyscamp/trudyscamp/blob/output/github-contribution-grid-snake.svg)  
+
  
  
  
